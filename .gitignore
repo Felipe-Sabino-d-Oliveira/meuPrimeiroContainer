@@ -1,2 +1,3 @@
 # Os arquivos e pastas a seguir serão ignorados pelo Git
-/vagrant
+/.vagrant
+/.vagrant/*
